@@ -1,0 +1,8 @@
+C:\CSAIO4D2E\ticTacToe\ticTacToe\bin\Debug\ticTacToe.exe.config
+C:\CSAIO4D2E\ticTacToe\ticTacToe\bin\Debug\ticTacToe.exe
+C:\CSAIO4D2E\ticTacToe\ticTacToe\bin\Debug\ticTacToe.pdb
+C:\CSAIO4D2E\ticTacToe\ticTacToe\obj\Debug\ticTacToe.csproj.AssemblyReference.cache
+C:\CSAIO4D2E\ticTacToe\ticTacToe\obj\Debug\ticTacToe.csproj.SuggestedBindingRedirects.cache
+C:\CSAIO4D2E\ticTacToe\ticTacToe\obj\Debug\ticTacToe.csproj.CoreCompileInputs.cache
+C:\CSAIO4D2E\ticTacToe\ticTacToe\obj\Debug\ticTacToe.exe
+C:\CSAIO4D2E\ticTacToe\ticTacToe\obj\Debug\ticTacToe.pdb

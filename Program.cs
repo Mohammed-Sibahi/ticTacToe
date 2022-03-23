@@ -27,12 +27,15 @@ namespace ticTacToe
             // 2. Draw the game board
             // 2.1 Game will have 3 rows and 3 columns and will be numbered from 1 to 9
 
-            //  1 | 2 | 3
-            // ---+---+---
-            //  4 | 5 | 6
-            // ---+---+---
-            //  7 | 8 | 9
-            // ---+---+---
+            Console.WriteLine(" 1 | 2 | 3");
+            Console.WriteLine("---+---+---");
+            Console.WriteLine(" 4 | 5 | 6");
+            Console.WriteLine("---+---+---");
+            Console.WriteLine(" 7 | 8 | 9");
+            Console.WriteLine("---+---+---");
+
+            string userInput = Console.ReadLine();
+
 
 
         }
