@@ -19,6 +19,13 @@ namespace ticTacToe
             Console.WriteLine("Player 2: O");
             Console.WriteLine();
 
+            // 1.3 who's turn is it?
+            // 1.4 Instruct the user to enter a number between 1 and 9
+            Console.WriteLine("Player {X} to move, select through from the game board");
+            Console.WriteLine();
+
+
+
         }
     }
 }
