@@ -24,6 +24,15 @@ namespace ticTacToe
             Console.WriteLine("Player {X} to move, select through from the game board");
             Console.WriteLine();
 
+            // 2. Draw the game board
+            // 2.1 Game will have 3 rows and 3 columns and will be numbered from 1 to 9
+
+            //  1 | 2 | 3
+            // ---+---+---
+            //  4 | 5 | 6
+            // ---+---+---
+            //  7 | 8 | 9
+            // ---+---+---
 
 
         }
